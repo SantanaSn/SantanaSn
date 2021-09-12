@@ -4,9 +4,7 @@
 - 📚Cursando Engenharia da Computação na UniFBV || 📚Currently doing a degree in Computer Engineering
  <div>
   <a href="https://github.com/SantanaSn">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=SantanaSn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaSn&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantanaSn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
