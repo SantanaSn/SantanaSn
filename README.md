@@ -1,7 +1,7 @@
-### 👋🏽Olá, seja bem vindo! || 👋🏽Hello, you're welcome!
+### 👋🏽You're welcome!
 
-- 📖Estudando Desenvolvimento RPA e .NET || 📖Currently learning RPA Development and Microsoft .NET
-- 📚Cursando Engenharia da Computação na UniFBV || 📚Currently doing a degree in Computer Engineering
+- 📖Learning Game Development with C++ and Unreal engine
+- 📚Doing a degree in Computer Engineering
  <div>
   <a href="https://github.com/SantanaSn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantanaSn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
