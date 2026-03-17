@@ -2,11 +2,7 @@
 
 - I ❤️ Game Development
 - 👨🏽‍💻Learning C++ and OpengGL right now
-- Doing a degree in Computer Engineering🖥️
- <div>
-  <a href="https://github.com/SantanaSn">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaSn&layout=compact&langs_count=5&theme=dark"/>
-  
+- Doing a degree in Computer Engineering🖥️ 
   <div style="display: inline_block"><br>
   <img align="center" alt="Santana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Santana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
