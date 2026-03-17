@@ -1,6 +1,6 @@
 ### Seja bem vindo!
 
-- 🏋🏽 Lutando contra a Bipolaridade todos os dias!
+- 🤪 Dev literalmente BIPOLAR
 - ❤️ Desenvolvimento de jogos
 - 👨🏽‍💻 Curioso, aprendo qualquer coisa!
 - 🖥️ Cursando engenharia da computação!
