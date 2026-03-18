@@ -1,7 +1,7 @@
 ### Seja bem vindo!
 
 - 🤪 Dev literalmente BIPOLAR
-- ❤️ Desenvolvimento de jogos
+- ❤️ Computação gráfica
 - 👨🏽‍💻 Curioso, aprendo qualquer coisa!
 - 🖥️ Cursando engenharia da computação!
 - 📚 Enquanto eu sofria na faculdade, esse lugar ficou um pouco abandonado, mas agora EU VOLTEI! 😁
