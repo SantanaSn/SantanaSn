@@ -1,6 +1,5 @@
 ### Seja bem vindo!
 
-- 🤪 Dev literalmente BIPOLAR
 - ❤️ Computação gráfica
 - 👨🏽‍💻 Curioso, aprendo qualquer coisa!
 - 🖥️ Cursando engenharia da computação!
